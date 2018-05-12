@@ -1,0 +1,36 @@
+_repo: Edison-s-Conquest-of-Mars_21670
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: Though he first gained acclaim as a popular lecturer and public speaker
+  who traveled the country teaching audiences about astronomy, author Garrett P. Serviss
+  also produced a body of engrossing science fiction. Edison's Conquest of Mars was
+  heavily influenced by H.G. Wells' The War of the Worlds, and it's packed with interstellar
+  action and adventure.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Edison's Conquest of Mars
+url: http://www.gutenberg.org/ebooks/21670
